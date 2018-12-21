@@ -6,7 +6,7 @@ import com.springboot.h2.restapi.model.Image;
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 public interface ImageService extends GenericService<Image> {

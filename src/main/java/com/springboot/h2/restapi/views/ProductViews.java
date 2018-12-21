@@ -2,7 +2,7 @@ package com.springboot.h2.restapi.views;
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 public class ProductViews {

@@ -8,7 +8,7 @@ import com.springboot.h2.restapi.model.Image;
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 public interface ImageRepository extends JpaRepository<Image, Long> {

@@ -20,7 +20,7 @@ import com.springboot.h2.restapi.service.ProductService;
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 @RunWith(SpringRunner.class)

@@ -12,7 +12,7 @@ import com.springboot.h2.restapi.model.exception.AvanueChallengeBusinessExceptio
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 @ControllerAdvice

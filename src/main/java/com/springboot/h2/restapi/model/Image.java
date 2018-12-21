@@ -19,7 +19,7 @@ import lombok.Setter;
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 @Getter

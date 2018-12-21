@@ -23,7 +23,7 @@ import com.springboot.h2.restapi.views.ProductViews;
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 @RestController

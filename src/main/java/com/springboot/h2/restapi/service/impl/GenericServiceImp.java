@@ -11,7 +11,7 @@ import com.springboot.h2.restapi.service.GenericService;
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 public abstract class GenericServiceImp<T, R extends JpaRepository<T, Long>> implements GenericService<T> {

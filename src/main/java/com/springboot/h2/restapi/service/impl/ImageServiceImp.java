@@ -12,7 +12,7 @@ import com.springboot.h2.restapi.service.ImageService;
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 @Service

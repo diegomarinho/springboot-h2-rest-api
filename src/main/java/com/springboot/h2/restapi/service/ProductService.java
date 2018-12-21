@@ -6,7 +6,7 @@ import com.springboot.h2.restapi.model.Product;
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 public interface ProductService extends GenericService<Product> {

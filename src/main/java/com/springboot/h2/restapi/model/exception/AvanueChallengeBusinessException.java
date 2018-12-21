@@ -6,7 +6,7 @@ import lombok.Getter;
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 @Getter

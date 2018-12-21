@@ -21,7 +21,7 @@ import com.springboot.h2.restapi.views.ImageViews;
 
 /**
  * 
- * @author Vinicius Falcão
+ * @author Diego Marinho
  *
  */
 @RestController
